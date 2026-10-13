@@ -11,7 +11,7 @@ A curated list of awesome System Designing articles, videos and resources for di
 Whether you're preparing for an interview or you want to design a distributed/microservice oriented application, this list will definitely help you achieve that.
 
 Attention: Stars on GitHub does not reflect usage or popularity for every item here listed.
-
+n
 Inspired By [Awesome-BigData](https://GitHub.com/onurakpolat/awesome-bigdata/blob/master/README.md)
 
 Started By Gabriel Leon de Mattos
@@ -55,6 +55,8 @@ Started By Gabriel Leon de Mattos
 - [Design Pattern for Distributed Systems](https://www.codemag.com/Article/1909071/Design-Patterns-for-Distributed-Systems) - Article talking about some patterns as well as some technologies to be considered.
 
 - [Practice system design problems using AI on Codemia.io](https://codemia.io) - A tool which allows you to practice system design problems interactively like an interview with AI. There's iterative feedback and final evaluation which scores your performance
+
+- [Dev Skills System Design Practice](https://www.devskills.in) - Practice where you write your own answer to 16 classic interview problems first, then compare it stage by stage with a worked solution, with 44 concepts taught in dependency order.
 
 ## Advanced
 
