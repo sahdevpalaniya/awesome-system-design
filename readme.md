@@ -11,7 +11,7 @@ A curated list of awesome System Designing articles, videos and resources for di
 Whether you're preparing for an interview or you want to design a distributed/microservice oriented application, this list will definitely help you achieve that.
 
 Attention: Stars on GitHub does not reflect usage or popularity for every item here listed.
-n
+
 Inspired By [Awesome-BigData](https://GitHub.com/onurakpolat/awesome-bigdata/blob/master/README.md)
 
 Started By Gabriel Leon de Mattos
